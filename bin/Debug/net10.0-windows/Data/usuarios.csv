@@ -1,0 +1,7 @@
+﻿Username;PasswordHash;Role;FullName;Email;SourceHolderName;IsActive;MustChangePassword;EsCorporativo
+admin_test;ac0e7d037817094e9e0b4441f9bae3209d67b02fa484917065f71b16109a1a78;Admin;"Ingeniero de Software (Master)";ingeniero@ejemplo.com;"ADMIN-001";True;False;False
+gerente_test;ee915c240ac4baef505c7652b7ec421e800c626e27d64627415a6ff6eaad7cd7;Manager;"Carlos Gerente";gerente.test@ejemplo.com;"MGR-001";True;False;False
+ejecutivo_test;599548d117fd6f55fc764194c56a1b8f7d6cf6f8e51640572828cfb9412d12e9;Executive;"Ana Ejecutivo";ejecutivo.test@ejemplo.com;"EJC-001";True;False;False
+cliente_test;43fc4423322a175b7af194241e9e08f50513f456fe44a27d2c47e4995b9386d4;Client;"Juan Cliente";cliente.test@ejemplo.com;"Empresa Cliente SAC";True;False;False
+lzavala;0b6a8a936d1b63087539e2de990a3bd8117d7713c9e22a4ac6f9eb7dfdcf3b01;Client;"Leonid Zavala Solano";lzavala@alicorp.com;"Alicorp S.A";True;False;True
+rzavala;77d0475e98837ba10407b86a4a60589885d11a9a064c4f1507316e56a9bb2a4f;Client;"Ruslan Zavala Osetrova";rzavala@textilescamones.com;"Ruslan Zavala Osetrova";True;False;False

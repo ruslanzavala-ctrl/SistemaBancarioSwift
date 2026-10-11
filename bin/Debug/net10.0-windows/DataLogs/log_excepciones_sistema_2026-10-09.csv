@@ -1,0 +1,24 @@
+﻿TimestampUtc_[yyyy-MM-dd_HH:mm:ss.fffffff];OrigenModulo;TransactionId;MensajeError;PrioridadAsignada;Acknowledged
+2026-10-09 13:06:38.4950000;ColaRecepcion_Gateway;TX-EXC-000031;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:07:13.4950000;ColaRecepcion_Gateway;TX-EXC-000038;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:09:58.4950000;ColaRecepcion_Gateway;TX-EXC-000071;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:18:28.4950000;ColaRecepcion_Gateway;TX-EXC-000173;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:18:38.4950000;ColaRecepcion_Gateway;TX-EXC-000175;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:19:38.4950000;ColaRecepcion_Gateway;TX-EXC-000187;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:21:13.4950000;ColaRecepcion_Gateway;TX-EXC-000206;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:22:23.4950000;ColaRecepcion_Gateway;TX-EXC-000220;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:28:48.4950000;ColaRecepcion_Gateway;TX-EXC-000297;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:38:53.4950000;ColaRecepcion_Gateway;TX-EXC-000418;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:44:18.4950000;ColaRecepcion_Gateway;TX-EXC-000483;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:44:23.4950000;ColaRecepcion_Gateway;TX-EXC-000484;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:46:03.4950000;ColaRecepcion_Gateway;TX-EXC-000504;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:50:33.4950000;ColaRecepcion_Gateway;TX-EXC-000558;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:52:38.4950000;ColaRecepcion_Gateway;TX-EXC-000583;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:56:03.4950000;ColaRecepcion_Gateway;TX-EXC-000624;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 13:58:58.4950000;ColaRecepcion_Gateway;TX-EXC-000659;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 14:00:28.4950000;ColaRecepcion_Gateway;TX-EXC-000677;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 14:00:33.4950000;ColaRecepcion_Gateway;TX-EXC-000678;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 14:10:28.4950000;ColaRecepcion_Gateway;TX-EXC-000797;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 14:11:38.4950000;ColaRecepcion_Gateway;TX-EXC-000811;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 14:19:08.4950000;ColaRecepcion_Gateway;TX-EXC-000901;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false
+2026-10-09 14:25:08.4950000;ColaRecepcion_Gateway;TX-EXC-000973;"Timeout en Gateway / Falla de Red al ingresar a Cola 1";1;false

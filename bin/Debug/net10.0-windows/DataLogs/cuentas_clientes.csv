@@ -1,0 +1,15 @@
+﻿Username;NumeroCuenta;Moneda;Estado
+cliente_test;ACC-CLI-001;USD;Activa
+cliente_test;ACC-CLI-EUR-002;EUR;Activa
+cliente_test;ACC-CLI-PEN-003;S/.;Activa
+cliente_test;DFSDFSDFSDF;USD;Activa
+cliente_test;SBSD-CLO-PEN-005;S/.;Activa
+cliente_test;BBVA-05-565656;USD;Activa
+cliente_test;BCP-01-5687945;S/.;Activa
+cliente_test;bbv-01-65656565;EUR;Activa
+lzavala;BBV-01-123456789;USD;Activa
+lzavala;BCP-02-123456789;S/.;Activa
+lzavala;BBVA-03-123456789;EUR;Activa
+rzavala;BCP-01-321654987;S/.;Activa
+rzavala;BCP-02-456321789;USD;Activa
+rzavala;BCP-03-852147963;EUR;Activa
